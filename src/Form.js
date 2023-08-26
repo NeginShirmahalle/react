@@ -47,6 +47,7 @@ export default function Weather() {
           </li>
         </ul>
       )}
+     <p>Coded by<a href="https://github.com/NeginShirmahalle/react"> Negin</a></p> 
     </div>
   );
 }
